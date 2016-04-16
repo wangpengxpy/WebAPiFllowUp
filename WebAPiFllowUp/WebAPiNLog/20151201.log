@@ -1,0 +1,7 @@
+2015-12-01 22:51:15.9221|INFO|WebAPiFllowUp.NLog.NLogHelper|JSON
+Method: POST
+URL: http://localhost:14510/about
+Controller : WebAPiFllowUp.Controllers.AboutController
+Action : about
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+

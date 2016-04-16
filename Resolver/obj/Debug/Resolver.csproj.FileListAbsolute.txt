@@ -1,0 +1,12 @@
+E:\Documents\Visual Studio 2013\Projects\WebAPiFllowUp\Resolver\bin\Debug\Resolver.dll
+E:\Documents\Visual Studio 2013\Projects\WebAPiFllowUp\Resolver\bin\Debug\Resolver.pdb
+E:\Documents\Visual Studio 2013\Projects\WebAPiFllowUp\Resolver\obj\Debug\Resolver.dll
+E:\Documents\Visual Studio 2013\Projects\WebAPiFllowUp\Resolver\obj\Debug\Resolver.pdb
+E:\Documents\Visual Studio 2013\Projects\WebAPiFllowUp\Resolver\obj\Debug\Resolver.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2013\Projects\WebAPiFllowUp\Resolver\bin\Debug\log4net\logger.cs
+E:\Documents\Visual Studio 2013\Projects\WebAPiFllowUp\Resolver\bin\Debug\Common.dll
+E:\Documents\Visual Studio 2013\Projects\WebAPiFllowUp\Resolver\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Documents\Visual Studio 2013\Projects\WebAPiFllowUp\Resolver\bin\Debug\log4net.dll
+E:\Documents\Visual Studio 2013\Projects\WebAPiFllowUp\Resolver\bin\Debug\Common.pdb
+E:\Documents\Visual Studio 2013\Projects\WebAPiFllowUp\Resolver\bin\Debug\Microsoft.Practices.Unity.xml
+E:\Documents\Visual Studio 2013\Projects\WebAPiFllowUp\Resolver\bin\Debug\log4net.xml

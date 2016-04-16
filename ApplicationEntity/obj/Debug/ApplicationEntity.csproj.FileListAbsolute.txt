@@ -1,0 +1,4 @@
+E:\Documents\Visual Studio 2013\Projects\WebAPiFllowUp\ApplicationEntity\bin\Debug\ApplicationEntity.dll
+E:\Documents\Visual Studio 2013\Projects\WebAPiFllowUp\ApplicationEntity\bin\Debug\ApplicationEntity.pdb
+E:\Documents\Visual Studio 2013\Projects\WebAPiFllowUp\ApplicationEntity\obj\Debug\ApplicationEntity.dll
+E:\Documents\Visual Studio 2013\Projects\WebAPiFllowUp\ApplicationEntity\obj\Debug\ApplicationEntity.pdb
